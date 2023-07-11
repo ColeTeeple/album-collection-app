@@ -1,0 +1,71 @@
+body {
+    /* background: linear-gradient(to right, coral, slateblue); */
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); */
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(54,53,62,1) 50%, rgba(68,106,124,1) 100%, rgba(81,154,182,1) 100%, rgba(91,193,228,0.5999649859943977) 100%, rgba(0,212,255,1) 100%);
+}
+
+.add-album-form-buttons {
+    text-align: center;
+}
+
+.add-album-form-buttons button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.add-buttons {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.add-buttons button {
+    margin-right: 10px;
+}
+
+.edit-and-info-buttons {
+    text-align: center;
+}
+
+.edit-and-info-buttons button {
+    margin-right: 10px;
+}
+
+.sort-buttons {
+    text-align: center;
+}
+
+.sort-buttons button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#edit-album-button {
+    margin-bottom: 15px;
+}
+
+#view-info-button {
+    margin-bottom: 15px;
+}
+
+#sort-alphabetically-button {
+    margin-bottom: 15px;
+}
+
+.view-albums-modal-buttons  {
+    text-align: center;
+}
+.view-albums-modal-buttons button {
+    margin-right: 10px;
+}
+
+.are-you-sure-modal-buttons {
+    text-align: center;
+}
+
+.are-you-sure-modal-buttons button {
+    margin-right: 10px;
+}
+
+
+
